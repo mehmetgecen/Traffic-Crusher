@@ -1,6 +1,6 @@
 # Traffic-Crusher
 
-Gameplay Description
+##Gameplay Description
 
 TrafficCrusher is a puzzle-runner type game where you have to find the right path by managing the traffic lights.
 
@@ -8,7 +8,8 @@ Be careful ! Some roads may lead to the abyss.Also as the level progresses, the 
 
 
 
-Instructions
+
+##Instructions
 
 In the game, you can change the location of the lamps and the traffic flow by clicking on the crossroads and traffic lights.
 
@@ -18,7 +19,8 @@ Hope you Enjoy !
 
 
 
-Used Assets
+
+##Used Assets
 
 Kenney  Race Kit - For all traffic elements and roads.
 
@@ -26,7 +28,8 @@ Unity Learn Course Library - For exhaust particle effect.and engine sound.
 
 
 
-Developers
+
+##Developers
 
 Emirhan Kaya
 
